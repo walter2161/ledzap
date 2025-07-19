@@ -1,0 +1,21 @@
+{
+  "name": "ledzap-landing-page",
+  "version": "1.0.0",
+  "description": "Landing page for LedZap WhatsApp Extension",
+  "main": "index.html",
+  "scripts": {
+    "dev": "http-server .",
+    "start": "http-server ."
+  },
+  "keywords": [
+    "whatsapp",
+    "extension",
+    "landing-page",
+    "open-source"
+  ],
+  "author": "LedZap Community",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
